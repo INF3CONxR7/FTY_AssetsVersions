@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Consultez le journal des modifications sur Discord."}
+{"version":"1.0.0","news":"Consultez le journal des modifications sur Discord."}
