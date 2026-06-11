@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"De nombreux changements, consultez les #mises à jour"}
+{"version":"1.0.0","news":"De nombreux changements, consultez les #mises à jour"}
